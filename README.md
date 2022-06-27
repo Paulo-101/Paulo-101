@@ -1,6 +1,6 @@
 ###  <h2>Oi! Eu sou Paulo Henrique </h2>👋
 
-Fico feliz em ver você em meu Github 😉
+Bem vindo(a) ao meu Github 😉
 
 
 - 🔭 Atualmente estou procurando trabalho, tenho interesse em desenvolvimento Back-end e conhecimento básico em Javascript, com o famoso NodeJS
