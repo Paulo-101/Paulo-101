@@ -1,4 +1,4 @@
-###  <h2>Oi! Eu sou Paulo Henrique </h2>👋
+###  <h2>Paulo Henrique </h2>👋
 
 - 🔭 Sou desenvolvedor, trabalho atualmente com Salesforce, na Atile.Digital, como desenvolvedor Salesforce, a principal linguagem que utilizo para trabalho é Apex, porém atuo em alguns desenvolvimentos front-end dentro da plataforma, com o framework Lightning e Aura, com isso utilizo HTML, CSS e Javascript no desenvolvimento. Também tenho conhecimento em Administração de sistemas Salesforce, com foco nas nuvens Sales e Service e desenvolvimento low-code com os Fluxos. 
 - 🌱 
