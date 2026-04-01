@@ -36,15 +36,6 @@ I enjoy working on complex business scenarios, translating requirements into eff
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/paulo-101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
